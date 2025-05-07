@@ -1,0 +1,25 @@
+{
+  "name": "wip-mark-image-downloader",
+  "version": "1.0.0",
+  "description": "이게뭐약 식별 검색에서의 마크 이미지 검색을 위한 마크 이미지 다운로더",
+  "main": "app.ts",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KNUT-Capstone-Design-team-1/wip-mark-image-downloader.git"
+  },
+  "author": "2mukee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KNUT-Capstone-Design-team-1/wip-mark-image-downloader/issues"
+  },
+  "homepage": "https://github.com/KNUT-Capstone-Design-team-1/wip-mark-image-downloader#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "puppeteer": "^24.8.0"
+  }
+}
